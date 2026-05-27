@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" fill="none" role="img" aria-label="FACINPRO">
+  <rect x="0" y="4" width="40" height="40" rx="10" fill="#1565C0"/>
+  <path d="M12 28V20h6.5c2.8 0 4.5 1.4 4.5 4s-1.7 4-4.5 4H12zm4-3.2h2.2c1 0 1.5-.4 1.5-1.2s-.5-1.2-1.5-1.2H16V24.8z" fill="#fff"/>
+  <path d="M26 28V20h4l3.2 5.2V20h3.8v8h-4l-3.2-5.2V28H26z" fill="#fff"/>
+  <text x="52" y="22" font-family="Poppins, Arial, sans-serif" font-size="18" font-weight="700" fill="#0D47A1">FACIN</text>
+  <text x="52" y="38" font-family="Poppins, Arial, sans-serif" font-size="18" font-weight="700" fill="#1565C0">PRO</text>
+  <text x="118" y="32" font-family="Poppins, Arial, sans-serif" font-size="9" font-weight="500" fill="#64748B">FACULDADE INPRO</text>
+</svg>
